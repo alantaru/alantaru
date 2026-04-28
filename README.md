@@ -28,14 +28,16 @@ Atualmente cursando **Pós-graduação em Inteligência Artificial** e **Gestão
 
 ![Python](https://img.shields.io/badge/Python-3.12-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
 **Frontend**
 
 ![React](https://img.shields.io/badge/React-19-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 **Infra & Cloud**
 
@@ -43,10 +45,11 @@ Atualmente cursando **Pós-graduação em Inteligência Artificial** e **Gestão
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-**Testes**
+**Testes & IA**
 
 ![Playwright](https://img.shields.io/badge/Playwright-E2E-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 ![Hypothesis](https://img.shields.io/badge/Hypothesis-PBT-purple?style=flat-square)
+![OpenAI](https://img.shields.io/badge/OpenAI-GPT-412991?style=flat-square&logo=openai&logoColor=white)
 
 ---
 
@@ -73,6 +76,19 @@ Atualmente cursando **Pós-graduação em Inteligência Artificial** e **Gestão
 
 ---
 
+## Outros Projetos
+
+| Projeto | Stack | Descrição |
+|---|---|---|
+| [viralAI](https://github.com/alantaru/viralAI) | TypeScript | Site de notícias geradas por IA |
+| [AutoBotBinanceGPT](https://github.com/alantaru/AutoBotBinanceGPT) | Python + GPT | Bot de trading automatizado com IA |
+| [BotIQOpt](https://github.com/alantaru/BotIQOpt) | Python | Bot de operações na IQ Option |
+| [WebInfoAPI](https://github.com/alantaru/WebInfoAPI) | Java | REST API para servidor de jogo (Necesse mod) |
+| [prismma_timeline](https://github.com/alantaru/prismma_timeline) | TypeScript | Timeline interativa |
+| [USB2HDMI](https://github.com/alantaru/USB2HDMI) | Kotlin | Utilitário Android |
+
+---
+
 ## Formação & Certificações
 
 | | |
@@ -81,9 +97,9 @@ Atualmente cursando **Pós-graduação em Inteligência Artificial** e **Gestão
 | 🤖 Pós-grad. Inteligência Artificial — FAAL | 2025 |
 | ☕ Pós-grad. Desenvolvimento OO com Java — Estácio | 2023–2024 |
 | 🎓 Bacharel em Análise de Sistemas — Estácio | 2019–2022 |
-| 📜 Java Advanced Certification | Udemy/Estácio |
+| 📜 Java Advanced Certification | |
 | 📜 Scrum Foundation Professional (SFPC) | CertiProf |
-| 📜 Python Certification Course | — |
+| 📜 Python Certification Course | |
 
 ---
 
