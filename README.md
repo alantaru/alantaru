@@ -37,11 +37,13 @@ Atualmente cursando **Pós-graduação em Inteligência Artificial** e **Gestão
 
 ![React](https://img.shields.io/badge/React-19-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-14-black?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
 **Infra & Cloud**
 
 ![AWS](https://img.shields.io/badge/AWS-EC2%20%2B%20S3-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FF6F00?style=flat-square&logo=firebase&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
@@ -49,15 +51,15 @@ Atualmente cursando **Pós-graduação em Inteligência Artificial** e **Gestão
 
 ![Playwright](https://img.shields.io/badge/Playwright-E2E-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 ![Hypothesis](https://img.shields.io/badge/Hypothesis-PBT-purple?style=flat-square)
-![OpenAI](https://img.shields.io/badge/OpenAI-GPT-412991?style=flat-square&logo=openai&logoColor=white)
+![Google Genkit](https://img.shields.io/badge/Google%20Genkit-AI-4285F4?style=flat-square&logo=google&logoColor=white)
 
 ---
 
-## Projeto em Destaque
+## Projetos
 
 ### [Supply 2026](https://github.com/alantaru/SupplyV2) — Sistema de Gestão de Insumos Corporativos
 
-> Construído a partir de um problema real: gerenciar contratos de impressão do Grupo Usiminas com planilhas era insustentável. Desenvolvi uma plataforma web completa do zero.
+> Plataforma web fullstack construída para resolver um problema real: gerenciar contratos de impressão do Grupo Usiminas com planilhas era insustentável.
 
 | Métrica | Valor |
 |---|---|
@@ -67,25 +69,23 @@ Atualmente cursando **Pós-graduação em Inteligência Artificial** e **Gestão
 | Bugs de produção encontrados pelos testes | **7** |
 | Tempo de execução da suíte | **~40 segundos** |
 
-**Destaques técnicos:**
-- Pipeline de importação universal com detecção automática de encoding e mapeamento inteligente de colunas (fuzzy match + memória de aprendizado no S3)
-- Arquitetura multi-tenant com RBAC (3 roles), JWT e isolamento total de dados por contrato
-- Zero banco de dados relacional — dados em CSV no S3, auth em JSON, simplicidade operacional máxima
-- Pirâmide de testes completa: unitários + integração + E2E + Property-Based Testing (Hypothesis)
-- CI/CD com GitHub Actions: smoke tests em todo push, testes críticos após deploy
+`Python 3.12` `FastAPI` `React 19` `AWS S3/EC2` `Playwright` `pytest` `Hypothesis` `CI/CD`
 
 ---
 
-## Outros Projetos
+### [viralAI](https://github.com/alantaru/viralAI) — Plataforma de Notícias Geradas por IA
 
-| Projeto | Stack | Descrição |
-|---|---|---|
-| [viralAI](https://github.com/alantaru/viralAI) | TypeScript | Site de notícias geradas por IA |
-| [AutoBotBinanceGPT](https://github.com/alantaru/AutoBotBinanceGPT) | Python + GPT | Bot de trading automatizado com IA |
-| [BotIQOpt](https://github.com/alantaru/BotIQOpt) | Python | Bot de operações na IQ Option |
-| [WebInfoAPI](https://github.com/alantaru/WebInfoAPI) | Java | REST API para servidor de jogo (Necesse mod) |
-| [prismma_timeline](https://github.com/alantaru/prismma_timeline) | TypeScript | Timeline interativa |
-| [USB2HDMI](https://github.com/alantaru/USB2HDMI) | Kotlin | Utilitário Android |
+> Site de notícias onde todo o conteúdo é gerado automaticamente por IA. Monitora tendências virais, cria artigos com pseudônimos gerados pela IA e publica em intervalos configuráveis.
+
+`Next.js 14` `TypeScript` `Firebase` `Google Genkit` `Gemini` `Tailwind CSS` `Jest`
+
+---
+
+### [BotIQOpt](https://github.com/alantaru/BotIQOpt) — Bot de Trading com IA
+
+> Bot de trading automatizado para IQ Option com núcleo de IA para análise e previsão de mercados. Auto-treinamento contínuo com dados históricos.
+
+`Python 3.12` `scikit-learn` `pandas` `pytest` `IQ Option API`
 
 ---
 
