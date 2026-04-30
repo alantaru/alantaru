@@ -1,110 +1,39 @@
-<div align="center">
+<imgsrc="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=+;Fullstack+Developer;Tech+Lead+%7C+AI+Enthusiast" alt="Typing SVG" />II _-_0D1117 à liderança operacionalque**mms**Excle  mtetes tomtizadsdívenrpri<div align="center">
 
-# Isaac Oliveira
-
-### Líder de Serviços · Desenvolvedor Fullstack · Analista de Sistemas
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-isaac--oliveira-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaac-oliveira-a0924441)
-[![Email](https://img.shields.io/badge/Email-isaac__oliveira@live.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isaac_oliveira@live.com)
-[![Location](https://img.shields.io/badge/📍-Ipatinga%2C%20MG%2C%20Brasil-gray?style=for-the-badge)](https://maps.google.com/?q=Ipatinga,MG)
-
+_PandaPanda15458andascikit-lerscikit--lerF793Escikitler_black)
+![Next.js](https://img.shields.io/badge/Next.js_14-?style=flat-square&logo=nextdotjs&logoColor=whiteVitVit66CFFvitTailwndTailwnd_CSS06BDtailwndcssCloud & _Fhite)
+![Linux](https://img.sields.io/badge/Lnux-FCC624?style=fla-squar&logo=linux&logoColor=black_
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)_BD1C2B_![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 </div>
 
----
+ PúblicosCorporativos
 
-## Sobre mim
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/alantaru/SupplyV2)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://github.com/alantaru/SupplyV2)
+[![React](https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black)](https://github.com/alantaru/SupplyV2)
+[![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logolo=white)](htts://github.cm/alantau/SupplyV2)
+[![Tests](https://img.shields.io/badge/1488_testes-4CAF50?style=fl-square&logo=pytest&logoColor=whte)](https://github.com/alantaru/SupplyV2)
+[![Coerage](https://img.shields.io/badge/cverage_99%25-4CAF50?style=flat-square)](http://github.com/alantaru/SupplyV2)
 
-Profissional com **9+ anos na Simpress** liderando equipes de serviços dentro do **Grupo Usiminas (Siderurgia)**, com foco em conformidade de SLA, gestão de equipe e relacionamento com clientes corporativos.
+---### [viralAI](https://giub.cm/alataru/viralAI)—Plaformad NoíciasGeradasporIA
 
-Paralelamente, desenvolvo soluções de software para automatizar e digitalizar os processos que gerencio no dia a dia — transformando planilhas e controles manuais em sistemas web completos, testados e escaláveis.
+[![Next.js](https:/img.shieds.io/bdge/Next.js_14-black?stle=flat-squae&logo=nextdotjs&logoColor=whte)](https://itub.com/alanaru/viralAI)
+[![TyeScript](https://img.shields.io/badge/TpeScrip-3178C6?styl=flat-quare&logo=escrip&logoColor=wit)](http://gthub.comalantaru/viralAI)[![Firebase](https://img.shields.io/badge/FirebaseFF6F00?style=flatsquare&logo=febse&ogoColor=white)
+[![Gemini](https://img.shieds.i/bg/Gogle_Genkit-4285F4?syle=flt-quare&logo=googl&logoColo=white)](https://github.com/alntru/vialA)vcrjob.
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/alantaru/BotIQOpt)[![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)](https://github.com/alantaru/IQOpt)
+[![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)](https://github.com/alantaru/BotIQOpt)
 
-Atualmente cursando **Pós-graduação em Inteligência Artificial** e **Gestão de TI** (FAAL, 2025–2026).
+Bot e gestão de risco configurável---
 
----
+## Experiência
 
-## Stack
+**Simpress — Grup Usimias***(9 anos e mees)*
 
-**Backend**
+- **Líder de Serviços II** · jan/2025 – presente
+  Gestão de equipe de 6 olaboradores (Operadores, Técncos e Asssente ADM), conformidade de SLA 98%+, reatórios grenciis e análise de fatuametora o cotrato o Grupo Usimin.
 
-![Python](https://img.shields.io/badge/Python-3.12-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+- **TécnicoRidene** · mar/2017 – jan/2025 *(7ans 11meses)*| Curso  Instituição Período|---ecnologia da nformação|ago/  abr/| ago/2025 –dez/|mai/  jun/ de Computação|  
 
-**Frontend**
+**Certificações:**`` ·`JavaCertification`·``·``
 
-![React](https://img.shields.io/badge/React-19-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-14-black?style=flat-square&logo=nextdotjs&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-
-**Infra & Cloud**
-
-![AWS](https://img.shields.io/badge/AWS-EC2%20%2B%20S3-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FF6F00?style=flat-square&logo=firebase&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-
-**Testes & IA**
-
-![Playwright](https://img.shields.io/badge/Playwright-E2E-2EAD33?style=flat-square&logo=playwright&logoColor=white)
-![Hypothesis](https://img.shields.io/badge/Hypothesis-PBT-purple?style=flat-square)
-![Google Genkit](https://img.shields.io/badge/Google%20Genkit-AI-4285F4?style=flat-square&logo=google&logoColor=white)
-
----
-
-## Projetos
-
-### [Supply 2026](https://github.com/alantaru/SupplyV2) — Sistema de Gestão de Insumos Corporativos
-
-> Plataforma web fullstack construída para resolver um problema real: gerenciar contratos de impressão do Grupo Usiminas com planilhas era insustentável.
-
-| Métrica | Valor |
-|---|---|
-| Testes automatizados | **1488 passando** |
-| Cobertura de código | **99%** |
-| Testes E2E (Playwright) | **74** |
-| Bugs de produção encontrados pelos testes | **7** |
-| Tempo de execução da suíte | **~40 segundos** |
-
-`Python 3.12` `FastAPI` `React 19` `AWS S3/EC2` `Playwright` `pytest` `Hypothesis` `CI/CD`
-
----
-
-### [viralAI](https://github.com/alantaru/viralAI) — Plataforma de Notícias Geradas por IA
-
-> Site de notícias onde todo o conteúdo é gerado automaticamente por IA. Monitora tendências virais, cria artigos com pseudônimos gerados pela IA e publica em intervalos configuráveis.
-
-`Next.js 14` `TypeScript` `Firebase` `Google Genkit` `Gemini` `Tailwind CSS` `Jest`
-
----
-
-### [BotIQOpt](https://github.com/alantaru/BotIQOpt) — Bot de Trading com IA
-
-> Bot de trading automatizado para IQ Option com núcleo de IA para análise e previsão de mercados. Auto-treinamento contínuo com dados históricos.
-
-`Python 3.12` `scikit-learn` `pandas` `pytest` `IQ Option API`
-
----
-
-## Formação & Certificações
-
-| | |
-|---|---|
-| 🎓 Pós-grad. Gestão de TI — FAAL | 2025–2026 |
-| 🤖 Pós-grad. Inteligência Artificial — FAAL | 2025 |
-| ☕ Pós-grad. Desenvolvimento OO com Java — Estácio | 2023–2024 |
-| 🎓 Bacharel em Análise de Sistemas — Estácio | 2019–2022 |
-| 📜 Java Advanced Certification | |
-| 📜 Scrum Foundation Professional (SFPC) | CertiProf |
-| 📜 Python Certification Course | |
-
----
-
-<div align="center">
-
-*Transformando operações reais em software de qualidade*
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/Conecte--se_no_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaac-oliveira-a0924441)
