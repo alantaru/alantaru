@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-isaac--oliveira-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaac-oliveira-a0924441)
 [![Email](https://img.shields.io/badge/Email-isaac__oliveira@live.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isaac_oliveira@live.com)
-[![Location](https://img.shields.io/badge/Ipatinga-MG%2C_Brasil-0D1117?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Ipatinga,MG)
+[![Location](https://img.shields.io/badge/Ipatinga-MG%2C_Brasil-212121?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Ipatinga,MG)
 
 </div>
 
@@ -28,7 +28,7 @@ Paralelamente à liderança operacional, desenvolvo soluções de software que *
 
 ![Python](https://img.shields.io/badge/Python_3.12-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-white?style=flat-square&logo=socketdotio&logoColor=black)
+![WebSockets](https://img.shields.io/badge/WebSockets-06B6D4?style=flat-square&logo=socketdotio&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
@@ -36,11 +36,11 @@ Paralelamente à liderança operacional, desenvolvo soluções de software que *
 **Frontend**
 
 ![React](https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js_14-black?style=flat-square&logo=nextdotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js_14-212121?style=flat-square&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-black?style=flat-square&logo=framer&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-212121?style=flat-square&logo=framer&logoColor=white)
 
 **Cloud & Infra**
 
@@ -55,7 +55,7 @@ Paralelamente à liderança operacional, desenvolvo soluções de software que *
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 ![Google Genkit](https://img.shields.io/badge/Google_Genkit-4285F4?style=flat-square&logo=google&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
-![Antigravity SDD](https://img.shields.io/badge/Antigravity_SDD-black?style=flat-square)
+![Antigravity SDD](https://img.shields.io/badge/Antigravity_SDD-06B6D4?style=flat-square)
 
 </div>
 
@@ -68,7 +68,7 @@ Paralelamente à liderança operacional, desenvolvo soluções de software que *
 [![React 19](https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black)](https://github.com/alantaru/nexus-os)
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://github.com/alantaru/nexus-os)
 [![Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)](https://github.com/alantaru/nexus-os)
-[![WebSockets](https://img.shields.io/badge/Real--time-white?style=flat-square&logo=socketdotio&logoColor=black)](https://github.com/alantaru/nexus-os)
+[![WebSockets](https://img.shields.io/badge/Real--time-06B6D4?style=flat-square&logo=socketdotio&logoColor=white)](https://github.com/alantaru/nexus-os)
 
 Um sistema operacional completo baseado em navegador para orquestração de Agentes de IA autônomos. Possui interface glassmórfica, sistema de arquivos virtual persistente e streaming de pensamentos da IA em tempo real. Desenvolvido com foco em alta fidelidade e arquitetura agêntica.
 
@@ -86,7 +86,7 @@ Plataforma web fullstack construída para resolver um problema real: gerenciar c
 
 ### [viralAI](https://github.com/alantaru/viralAI) — Notícias Autônomas com IA
 
-[![Next.js](https://img.shields.io/badge/Next.js_14-black?style=flat-square&logo=nextdotjs&logoColor=white)](https://github.com/alantaru/viralAI)
+[![Next.js](https://img.shields.io/badge/Next.js_14-212121?style=flat-square&logo=nextdotjs&logoColor=white)](https://github.com/alantaru/viralAI)
 [![Firebase](https://img.shields.io/badge/Firebase-FF6F00?style=flat-square&logo=firebase&logoColor=white)](https://github.com/alantaru/viralAI)
 
 Portal de notícias onde todo o conteúdo é gerado automaticamente por IA, monitorando tendências virais e publicando artigos de forma autônoma.
