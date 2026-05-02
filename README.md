@@ -2,7 +2,7 @@
 
 # Isaac Oliveira
 
-**LÃ­der de ServiÃ§os II Â· Desenvolvedor Fullstack Â· Analista de Sistemas**
+**Líder de Serviços II · Desenvolvedor Fullstack · Analista de Sistemas**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-isaac--oliveira-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaac-oliveira-a0924441)
 [![Email](https://img.shields.io/badge/Email-isaac__oliveira@live.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isaac_oliveira@live.com)
@@ -14,9 +14,9 @@
 
 ## Sobre mim
 
-Profissional com **9+ anos na Simpress** liderando equipes de serviÃ§os dentro do **Grupo Usiminas (Siderurgia)**, com foco em conformidade de SLA, gestÃ£o de equipe e relacionamento com clientes corporativos.
+Profissional com **9+ anos na Simpress** liderando equipes de serviços dentro do **Grupo Usiminas (Siderurgia)**, com foco em conformidade de SLA, gestão de equipe e relacionamento com clientes corporativos.
 
-Paralelamente Ã  lideranÃ§a operacional, desenvolvo soluÃ§Ãµes de software que **automatizam e digitalizam processos reais** â€” transformando planilhas Excel e controles manuais em sistemas web completos, escalÃ¡veis e com testes automatizados de nÃ­vel enterprise.
+Paralelamente à liderança operacional, desenvolvo soluções de software que **automatizam e digitalizam processos reais** — transformando planilhas Excel e controles manuais em sistemas web completos, escaláveis e com testes automatizados de nível enterprise.
 
 ---
 
@@ -50,7 +50,7 @@ Paralelamente Ã  lideranÃ§a operacional, desenvolvo soluÃ§Ãµes de softwa
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-**IA & Engenharia AgÃªntica**
+**IA & Engenharia Agêntica**
 
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 ![Google Genkit](https://img.shields.io/badge/Google_Genkit-4285F4?style=flat-square&logo=google&logoColor=white)
@@ -63,61 +63,61 @@ Paralelamente Ã  lideranÃ§a operacional, desenvolvo soluÃ§Ãµes de softwa
 
 ## Projetos em Destaque
 
-### [Nexus OS](https://github.com/alantaru/nexus-os) â€” O Sistema Operacional AgÃªntico
+### [Nexus OS](https://github.com/alantaru/nexus-os) — O Sistema Operacional Agêntico
 
 [![React 19](https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black)](https://github.com/alantaru/nexus-os)
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://github.com/alantaru/nexus-os)
 [![Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)](https://github.com/alantaru/nexus-os)
 [![WebSockets](https://img.shields.io/badge/Real--time-white?style=flat-square&logo=socketdotio&logoColor=black)](https://github.com/alantaru/nexus-os)
 
-Um sistema operacional completo baseado em navegador para orquestraÃ§Ã£o de Agentes de IA autÃ´nomos. Possui interface glassmÃ³rfica, sistema de arquivos virtual persistente e streaming de pensamentos da IA em tempo real. Desenvolvido com foco em alta fidelidade e arquitetura agÃªntica.
+Um sistema operacional completo baseado em navegador para orquestração de Agentes de IA autônomos. Possui interface glassmórfica, sistema de arquivos virtual persistente e streaming de pensamentos da IA em tempo real. Desenvolvido com foco em alta fidelidade e arquitetura agêntica.
 
 ---
 
-### [Supply 2026](https://github.com/alantaru/SupplyV2) â€” Sistema de GestÃ£o de Insumos Corporativos
+### [Supply 2026](https://github.com/alantaru/SupplyV2) — Sistema de Gestão de Insumos Corporativos
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/alantaru/SupplyV2)
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://github.com/alantaru/SupplyV2)
 [![Tests](https://img.shields.io/badge/1488_testes-4CAF50?style=flat-square&logo=pytest&logoColor=white)](https://github.com/alantaru/SupplyV2)
 
-Plataforma web fullstack construÃ­da para resolver um problema real: gerenciar contratos de faturamento do Grupo Usiminas. Sistema robusto com pirÃ¢mide de testes completa (99% de cobertura) e deploy AWS.
+Plataforma web fullstack construída para resolver um problema real: gerenciar contratos de faturamento do Grupo Usiminas. Sistema robusto com pirâmide de testes completa (99% de cobertura) e deploy AWS.
 
 ---
 
-### [viralAI](https://github.com/alantaru/viralAI) â€” NotÃ­cias AutÃ´nomas com IA
+### [viralAI](https://github.com/alantaru/viralAI) — Notícias Autônomas com IA
 
 [![Next.js](https://img.shields.io/badge/Next.js_14-black?style=flat-square&logo=nextdotjs&logoColor=white)](https://github.com/alantaru/viralAI)
 [![Firebase](https://img.shields.io/badge/Firebase-FF6F00?style=flat-square&logo=firebase&logoColor=white)](https://github.com/alantaru/viralAI)
 
-Portal de notÃ­cias onde todo o conteÃºdo Ã© gerado automaticamente por IA, monitorando tendÃªncias virais e publicando artigos de forma autÃ´noma.
+Portal de notícias onde todo o conteúdo é gerado automaticamente por IA, monitorando tendências virais e publicando artigos de forma autônoma.
 
 ---
 
-## ExperiÃªncia
+## Experiência
 
-**Simpress â€” Grupo Usiminas** *(9 anos e 2 meses)*
+**Simpress — Grupo Usiminas** *(9 anos e 2 meses)*
 
-- **LÃ­der de ServiÃ§os II** Â· jan/2025 â€“ presente
-  GestÃ£o de equipe, conformidade de SLA 98%+, relatÃ³rios gerenciais e anÃ¡lise de faturamento.
+- **Líder de Serviços II** · jan/2025 – presente
+  Gestão de equipe, conformidade de SLA 98%+, relatórios gerenciais e análise de faturamento.
 
-- **TÃ©cnico Residente I** Â· mar/2017 â€“ jan/2025
+- **Técnico Residente I** · mar/2017 – jan/2025
 
 ---
 
-## FormaÃ§Ã£o & CertificaÃ§Ãµes
+## Formação & Certificações
 
-| Curso | InstituiÃ§Ã£o | PerÃ­odo |
+| Curso | Instituição | Período |
 |---|---|---|
-| PÃ³s-grad. InteligÃªncia Artificial | FAAL | 2025 |
-| PÃ³s-grad. GestÃ£o de TI | FAAL | 2025 |
-| PÃ³s-grad. Desenvolvimento OO com Java | EstÃ¡cio | 2024 |
-| Bacharel em AnÃ¡lise de Sistemas | EstÃ¡cio | 2022 |
+| Pós-grad. Inteligência Artificial | FAAL | 2025 |
+| Pós-grad. Gestão de TI | FAAL | 2025 |
+| Pós-grad. Desenvolvimento OO com Java | Estácio | 2024 |
+| Bacharel em Análise de Sistemas | Estácio | 2022 |
 
 ---
 
 <div align="center">
 
-*Transformando operaÃ§Ãµes reais em software de qualidade*
+*Transformando operações reais em software de qualidade*
 
 [![LinkedIn](https://img.shields.io/badge/Conectar_no_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaac-oliveira-a0924441)
 
